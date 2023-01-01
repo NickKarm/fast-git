@@ -1,1 +1,1 @@
-# fast-company-partiers
+# fast-to-git
